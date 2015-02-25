@@ -21,7 +21,7 @@ That being said, why am I even making a blog? If I had to piece together my moti
 
 1. I want to practice putting pen to paper (or fingers to keyboard?). I think that it will be good to spend some time writing something once or twice a week to practice the process of formulating thoughts into words. I am not much of a wordsmith, but as the saying goes, practice makes perfect, or something like that. 
 2. I am looking for a reason to dive into programming projects. By starting this blog, I will guilt myself into actively working on a project in my free time, lest I disappoint myself and my many Internet fans. I am an `R` enthusiast with experience in some other languages, such as Python and Java. I have an inkling of an idea that may become my first project to share with the world.
-3. I am thinking of increasing my online presence. I want to put some work on expanding my online social network and engaging others via social networks like Twitter, LinkedIn, Facebook, etc. And what better way is there to entice people to befriend me than to lead those that will inevitably stalk me on the Internet to my website?
+3. I am thinking of increasing my online presence. I want to put some work into expanding my online social network and engaging others via social networking hubs like Twitter, LinkedIn, Facebook, etc. And what better way is there to entice people to befriend me than to lead those that will inevitably stalk me on the Internet to my website?
 
 ### To Do
 
